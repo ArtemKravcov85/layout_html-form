@@ -1,4 +1,8 @@
-label {
+.field {
+  display: block;
+}
+
+.selectors {
   display: block;
   margin-bottom: 10px;
 }
@@ -6,4 +10,8 @@ label {
 fieldset {
   margin-bottom: 20px;
   padding-bottom: 0;
+}
+
+div {
+  display: flex;
 }
