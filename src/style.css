@@ -1,5 +1,6 @@
 .field {
   display: block;
+  margin-bottom: 10px;
 }
 
 .selectors {
@@ -12,6 +13,6 @@ fieldset {
   padding-bottom: 0;
 }
 
-div {
-  display: flex;
+.button {
+  border-radius: 4px;
 }
